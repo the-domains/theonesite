@@ -1,0 +1,14 @@
+layout_spectrum: 0.15086345141753554
+typography_spectrum: 0.02053065411746502
+color:
+  brandStrength: 0.07248285552486777
+  lightness: 0.8064953521825373
+  saturation: 0.9992385166697204
+  rhythmicContrast: 0.46606697724200785
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: TheOneSite
