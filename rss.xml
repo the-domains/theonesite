@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[TheOneSite]]></title>
         <description><![CDATA[TheOneSite]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theonesite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 02:42:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jul 2016 03:06:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theonesite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Does a Million Dollar Apartment in NYC Look Like?]]></title>
+            <description><![CDATA[<article><h1>What Does a Million Dollar Apartment in NYC Look Like?</h1><p>To many of us, a million dollar home sounds like it should be the lap of luxury: marble tubs, game room, wine cellar, perhaps a private pool. But, a million dollars doesn't go quite as far down amenities lane in New York City. So what does a million bucks buy you in Gotham?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cbd3ac6ec165826eb02d879958e73503/noop?input=http%3A%2F%2Fatmedia.imgix.net%2Fc5aeb38959fa7eac1cc989e4f98e1468f46f9bdc%3Fw%3D1500%26fit%3Dmax"></article>]]></description>
+            <link>http://www.apartmenttherapy.com/what-does-a-million-dollar-apartment-in-nyc-look-like-233567</link>
+            <guid isPermaLink="false">8ccdf6c9-7787-442b-97ec-bd5eebe9ee1a</guid>
+            <pubDate>Mon, 25 Jul 2016 03:06:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moleskine's Comprehensive Smart Writing Set]]></title>
             <description><![CDATA[<article><h1>Moleskine's Comprehensive Smart Writing Set</h1><p>At a conference on productivity-which touched on everything from the importance of tech-free alone time to the educational and emotional benefits of writing by hand (as outlined in a series of studies on the subject)- Moleskine unveiled their latest analog-to-digital wonder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88246302c4146bab7671eb9fd40a7ff184af1b48.jpg"></article>]]></description>
